@@ -67,8 +67,20 @@ Meu nome é Aline e sou um desenvolvedor em formação apaixonado por tecnologia
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="center" 
+    alt="Nodejs" 
+    title="Nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=nodejs" 
+    />
+        
 </div>
 
+           
+          
 <br/>
 <br/>
 
