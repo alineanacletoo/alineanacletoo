@@ -1,6 +1,6 @@
-💻 Olá, seja bem-vindo(a) ao meu GitHub!
+<h1>💻 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
 
-# 👩🏻‍💻 Aline Anacleto
+<h2># 👩🏻‍💻 Aline Anacleto</h2>
 
 **`Desenvolvedora FullStack`**
 Meu nome é Aline e sou um desenvolvedor em formação apaixonado por tecnologia! 
