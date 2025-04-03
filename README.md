@@ -3,7 +3,7 @@
 <h2># 👩🏻‍💻 Aline Anacleto</h2>
 
 **`Desenvolvedora FullStack`**
-🎓 Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor(a) em formação, apaixonado(a) por tecnologia e sempre buscando novos desafios para evoluir. Atualmente, estou me especializando como desenvolvedor(a) Fullstack com foco em JavaScript e TypeScript.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedora em formação, apaixonada por tecnologia e sempre buscando novos desafios para evoluir. Atualmente, estou me especializando como desenvolvedora Fullstack com foco em JavaScript e TypeScript.
 
 🚀 Estou sempre buscando aprender algo novo e contribuir com projetos que façam a diferença. Meus próximos passos incluem aprofundar meus conhecimentos em desenvolvimento frontend e explorar mais sobre computação em nuvem.
 
